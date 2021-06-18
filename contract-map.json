@@ -1,4 +1,5 @@
 {
+<<<<<<< HEAD
   "0x40FD72257597aA14C7231A7B1aaa29Fce868F677": {
     "name": "Sora Token",
     "logo": "xor.svg",
@@ -27,6 +28,8 @@
     "symbol": "JASMY",
     "decimals": 18
   },
+=======
+>>>>>>> Replace FKX token address with new address + replace FortKnoxster logo icon with new logo icon
   "0x947AEb02304391f8fbE5B25D7D98D649b57b1788": {
     "name": "Mandala Exchange Token",
     "logo": "mandala.svg",
